@@ -14,6 +14,9 @@
 
 package com.saasovation.collaboration.application.calendar.data;
 
+/**
+ * 日历共享者数据
+ */
 public class CalendarSharerData {
 
     private String calendarId;
